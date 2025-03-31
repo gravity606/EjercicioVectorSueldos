@@ -23,8 +23,10 @@ public class Main {
 
       double sueldoMedio = sueldoTotal / sueldos.length;
 
+      System.out.println("************************************************");
       System.out.println("El total ganado en 12 meses es: " + sueldoTotal + " euros");
       System.out.println("La media de salario mensual es: " + sueldoMedio + " euros");
+      System.out.println("************************************************");
 
 
     }
